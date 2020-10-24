@@ -1,0 +1,12 @@
+api:
+  environment:  "production"
+  port: 8080
+  debug: false
+database:
+  host: "localhost"
+  port: 3308
+  user: "bas"
+  password: "251200**2015"
+  dbname: "gorestapi_dev"
+jwt:
+  secret: "secret"
